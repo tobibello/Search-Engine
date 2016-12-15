@@ -10,7 +10,7 @@ namespace ConsoleApp_Debug
 
         private static void Main()
         {
-            string input = "computer science department";
+            string input = "computer science";
             DocDirectory dir = new DocDirectory(new DirectoryInfo(Documents));
             DirectoryInfo dirIndexSave =
                 new DirectoryInfo(@"C:\Users\Tobi\Documents\Visual Studio 2015\Projects\SearchEngine\Test\bin\Debug\AppIndexFiles");
