@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CSC322_SearchEngineProject.Collector">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CSC322_SearchEngineProject.Collector.State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Collector.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAACIAAAAAAgEAAAAAACAAAAAAAkAAAAAAAAAAgAA=</HashCode>
+      <FileName>Collector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.Constants" Collapsed="true">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAIBAIABAAAAAAAA=</HashCode>
+      <FileName>Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.DocCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAAAAEAFAUCAAABAQAAAAAAAAEAAAgAABQIAA=</HashCode>
+      <FileName>DocCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.DocDirectory" Collapsed="true">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>DocDirectory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.Document" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Document.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.IndexReader" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IndexReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.IndexSearcher" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAAgAAA=</HashCode>
+      <FileName>IndexSearcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.IndexWriter">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAIAAAAAAEAAAAQAQAAAAAAAAAAAIAAAAAAABAA=</HashCode>
+      <FileName>IndexWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.InvertedIndex" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAAAAEABAUCAAABAQAAAAAAAAEAAAgAABQIAA=</HashCode>
+      <FileName>InvertedIndex.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.PorterStemmer" Collapsed="true">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIBAAAACAACgAAgAAABAIARAAACBEAAAKAABAIAAA=</HashCode>
+      <FileName>PorterStemmer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.Postings" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAABAAEABQUDAAABAQAAAAAAAAEAAAgAABQIAA=</HashCode>
+      <FileName>Postings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.Query" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Query.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.ScoredDoc" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAABAAAAAQAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ScoredDoc.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.SerializationHelper" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SerializationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.TextExtractor" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAQAAA=</HashCode>
+      <FileName>TextExtractor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSC322_SearchEngineProject.WeightCalculator" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAEAEAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>WeightCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

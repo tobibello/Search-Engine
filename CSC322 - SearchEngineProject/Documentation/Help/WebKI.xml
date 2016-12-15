@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AddDirectory method" Url="html/77a8d61b-9533-9723-e150-9fa710a2dc71.htm" />
+  <HelpKINode Title="AddDocument method" Url="html/4d8165ee-5f6a-93a7-9d13-f2af65537f13.htm" />
+  <HelpKINode Title="Collector class">
+    <HelpKINode Title="Collector Class" Url="html/a18fed00-0460-b2a9-5d0a-76478c5d7e62.htm" />
+    <HelpKINode Title="about Collector class" Url="html/a18fed00-0460-b2a9-5d0a-76478c5d7e62.htm" />
+    <HelpKINode Title="methods" Url="html/482a9872-63f9-c9fe-4cfd-b0b7536886cc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Collector.Create method" Url="html/21547aed-6de2-052b-dec5-38e176d5fd82.htm" />
+  <HelpKINode Title="Collector.GetTopDocs method" Url="html/b6e32e13-6cda-0260-c87f-6571e106829e.htm" />
+  <HelpKINode Title="Compare method" Url="html/866adc58-f0ca-59aa-100c-f2b30ec95f8e.htm" />
+  <HelpKINode Title="CompareTo method" Url="html/32950683-2b65-9683-033f-2a136650d990.htm" />
+  <HelpKINode Title="Create method">
+    <HelpKINode Title="Collector.Create Method " Url="html/21547aed-6de2-052b-dec5-38e176d5fd82.htm" />
+    <HelpKINode Title="Query.Create Method " Url="html/9f948886-0cf0-4086-e0b9-d553285f338d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CSC322_SearchEngineProject namespace" Url="html/dbd5d122-6bc8-dde1-a055-f50c06457838.htm" />
+  <HelpKINode Title="CSC322_SearchEngineProject.Collector class" Url="html/a18fed00-0460-b2a9-5d0a-76478c5d7e62.htm" />
+  <HelpKINode Title="CSC322_SearchEngineProject.DocDirectory class" Url="html/2567b295-8edf-48b2-918a-a60379e25780.htm" />
+  <HelpKINode Title="CSC322_SearchEngineProject.Document class" Url="html/617fb1cf-59ec-a340-b6c1-72b3046abcc2.htm" />
+  <HelpKINode Title="CSC322_SearchEngineProject.IndexReader class" Url="html/103625b2-8678-5b59-e553-bb7d8d2bbd65.htm" />
+  <HelpKINode Title="CSC322_SearchEngineProject.IndexSearcher class" Url="html/4b88ce70-3af6-702c-339e-cacace76bbb2.htm" />
+  <HelpKINode Title="CSC322_SearchEngineProject.IndexWriter class" Url="html/fa51809d-6d52-7822-5496-4189ee00df7e.htm" />
+  <HelpKINode Title="CSC322_SearchEngineProject.Query class" Url="html/1a301bc2-d08f-123d-1321-437e7e83099b.htm" />
+  <HelpKINode Title="CSC322_SearchEngineProject.ScoredDoc class" Url="html/7887c032-8a07-20de-542a-24cac0b0829e.htm" />
+  <HelpKINode Title="Doc method" Url="html/dc1de95a-2b11-d13d-a07b-f976304ad21c.htm" />
+  <HelpKINode Title="DocDirectory class">
+    <HelpKINode Title="DocDirectory Class" Url="html/2567b295-8edf-48b2-918a-a60379e25780.htm" />
+    <HelpKINode Title="about DocDirectory class" Url="html/2567b295-8edf-48b2-918a-a60379e25780.htm" />
+    <HelpKINode Title="constructor" Url="html/a30db8bf-ffc0-5a06-b03c-fca83e226a2c.htm" />
+    <HelpKINode Title="methods" Url="html/22813e44-322a-2ac3-30fb-c0596421e34d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DocDirectory.DocDirectory constructor" Url="html/a30db8bf-ffc0-5a06-b03c-fca83e226a2c.htm" />
+  <HelpKINode Title="Docid property" Url="html/451ea7f3-6ab5-f84d-8bde-09b7acb0b7bc.htm" />
+  <HelpKINode Title="Document class">
+    <HelpKINode Title="Document Class" Url="html/617fb1cf-59ec-a340-b6c1-72b3046abcc2.htm" />
+    <HelpKINode Title="about Document class" Url="html/617fb1cf-59ec-a340-b6c1-72b3046abcc2.htm" />
+    <HelpKINode Title="constructor" Url="html/99d46f3f-71f0-2ede-38bb-cb43908ce595.htm" />
+    <HelpKINode Title="fields" Url="html/828ca4b6-c715-b00f-b2dd-73c45c1a344f.htm" />
+    <HelpKINode Title="methods" Url="html/56cae509-727c-d4f6-db07-a9e0bb639db2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Document.Document constructor" Url="html/99d46f3f-71f0-2ede-38bb-cb43908ce595.htm" />
+  <HelpKINode Title="Document.File field" Url="html/66b136d7-a7d6-4a9d-c65d-cf40ea55321f.htm" />
+  <HelpKINode Title="File field" Url="html/66b136d7-a7d6-4a9d-c65d-cf40ea55321f.htm" />
+  <HelpKINode Title="GetTopDocs method" Url="html/b6e32e13-6cda-0260-c87f-6571e106829e.htm" />
+  <HelpKINode Title="IndexReader class">
+    <HelpKINode Title="IndexReader Class" Url="html/103625b2-8678-5b59-e553-bb7d8d2bbd65.htm" />
+    <HelpKINode Title="about IndexReader class" Url="html/103625b2-8678-5b59-e553-bb7d8d2bbd65.htm" />
+    <HelpKINode Title="constructor" Url="html/98ab7e03-32d3-5906-f25a-c1610e08e2a5.htm" />
+    <HelpKINode Title="methods" Url="html/1ab8f8d0-ee35-c3cf-e617-e7836d92733d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IndexReader.IndexReader constructor" Url="html/98ab7e03-32d3-5906-f25a-c1610e08e2a5.htm" />
+  <HelpKINode Title="IndexSearcher class">
+    <HelpKINode Title="IndexSearcher Class" Url="html/4b88ce70-3af6-702c-339e-cacace76bbb2.htm" />
+    <HelpKINode Title="about IndexSearcher class" Url="html/4b88ce70-3af6-702c-339e-cacace76bbb2.htm" />
+    <HelpKINode Title="constructor" Url="html/8518998a-6a2f-e86b-6719-b5548bdb8927.htm" />
+    <HelpKINode Title="methods" Url="html/a4664c84-4a7f-2748-7e00-252a2be6b706.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IndexSearcher.Doc method" Url="html/dc1de95a-2b11-d13d-a07b-f976304ad21c.htm" />
+  <HelpKINode Title="IndexSearcher.IndexSearcher constructor" Url="html/8518998a-6a2f-e86b-6719-b5548bdb8927.htm" />
+  <HelpKINode Title="IndexSearcher.Search method" Url="html/388b7684-8abf-8d46-49d6-c51dc0953b7b.htm" />
+  <HelpKINode Title="IndexWriter class">
+    <HelpKINode Title="IndexWriter Class" Url="html/fa51809d-6d52-7822-5496-4189ee00df7e.htm" />
+    <HelpKINode Title="about IndexWriter class" Url="html/fa51809d-6d52-7822-5496-4189ee00df7e.htm" />
+    <HelpKINode Title="constructor" Url="html/ab42467a-abe7-476b-b5f0-d511a61bead5.htm" />
+    <HelpKINode Title="methods" Url="html/822c4da8-6731-f955-46e5-53064277b082.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IndexWriter.AddDirectory method" Url="html/77a8d61b-9533-9723-e150-9fa710a2dc71.htm" />
+  <HelpKINode Title="IndexWriter.AddDocument method" Url="html/4d8165ee-5f6a-93a7-9d13-f2af65537f13.htm" />
+  <HelpKINode Title="IndexWriter.IndexWriter constructor" Url="html/ab42467a-abe7-476b-b5f0-d511a61bead5.htm" />
+  <HelpKINode Title="Query class">
+    <HelpKINode Title="Query Class" Url="html/1a301bc2-d08f-123d-1321-437e7e83099b.htm" />
+    <HelpKINode Title="about Query class" Url="html/1a301bc2-d08f-123d-1321-437e7e83099b.htm" />
+    <HelpKINode Title="methods" Url="html/be6ffd91-95e8-486f-8124-ef67832479bc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Query.Create method" Url="html/9f948886-0cf0-4086-e0b9-d553285f338d.htm" />
+  <HelpKINode Title="ScoredDoc class">
+    <HelpKINode Title="ScoredDoc Class" Url="html/7887c032-8a07-20de-542a-24cac0b0829e.htm" />
+    <HelpKINode Title="about ScoredDoc class" Url="html/7887c032-8a07-20de-542a-24cac0b0829e.htm" />
+    <HelpKINode Title="methods" Url="html/b6bd5801-486c-2a59-5690-02437dd3541b.htm" />
+    <HelpKINode Title="properties" Url="html/18bf5170-c952-42d4-b061-dc38ed1c93eb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ScoredDoc.Compare method" Url="html/866adc58-f0ca-59aa-100c-f2b30ec95f8e.htm" />
+  <HelpKINode Title="ScoredDoc.CompareTo method" Url="html/32950683-2b65-9683-033f-2a136650d990.htm" />
+  <HelpKINode Title="ScoredDoc.Docid property" Url="html/451ea7f3-6ab5-f84d-8bde-09b7acb0b7bc.htm" />
+  <HelpKINode Title="Search method" Url="html/388b7684-8abf-8d46-49d6-c51dc0953b7b.htm" />
+</HelpKI>
